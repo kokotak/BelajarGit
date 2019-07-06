@@ -2,8 +2,8 @@ Karir :
 - Menjadi Developer
 - Kumpul uang untuk kuliah
 - Tambah Relasi
+- Cari Info Magang & Beasiswa
 
 Skill :
 - Fullstack Web Development
 - UI/UX
-- Graphic Design
