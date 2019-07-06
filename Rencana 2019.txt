@@ -3,7 +3,7 @@ Karir :
 - Kumpul uang untuk kuliah
 - Tambah Relasi
 
-Skiil :
-- Web Development
+Skill :
+- Fullstack Web Development
 - UI/UX
 - Graphic Design
